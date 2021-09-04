@@ -9,3 +9,5 @@ projects for view:<br>
 <a href="https://bazylevnik0.github.io/gotothestars/">bazylevnik0.github.io/gotothestars/</a><br>
 -Slideshow web tool Github page (HTML & CSS & JS)<br>
 <a href="https://bazylevnik0.github.io/showmagic/">bazylevnik0.github.io/showmagic/</a><br>
+------------------------------------<br>
+Study projects: https://sites.google.com/view/nikolay-bazylev-study-projects/
