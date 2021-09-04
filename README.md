@@ -4,6 +4,7 @@
 - 📫 How to reach me: bazylevnik0@gmail.com
 
 projects for view:<br>
+------------------<br>
 -Clicker Github page (Three.js , Tone.js)<br>
 <a href="https://bazylevnik0.github.io/gotothestars/">bazylevnik0.github.io/gotothestars/</a><br>
 -Slideshow web tool Github page (HTML & CSS & JS)<br>
