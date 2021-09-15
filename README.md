@@ -10,4 +10,6 @@ projects for view:<br>
 -Slideshow web tool (HTML & CSS & JS):<br>
 <a href="https://bazylevnik0.github.io/showmagic/">bazylevnik0.github.io/showmagic/</a><br>
 ------------------------------------<br>
-Study projects: https://sites.google.com/view/nikolay-bazylev-study-projects/
+Study projects: https://sites.google.com/view/nikolay-bazylev-study-projects/<br>
+------------------------------------<br>
+#threejs
