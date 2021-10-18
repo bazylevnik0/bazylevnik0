@@ -15,6 +15,9 @@ projects for view:<br>
 -Site(app) with authentification(Express.js, API):<br>
 <a href="https://site-philosophy.herokuapp.com/">https://site-philosophy.herokuapp.com/</a><br>
 ------------------------------------<br>
+Freelance projects: https://www.upwork.com/freelancers/~01f972e7777428d9bd<br>
+------------------------------------<br>
+------------------------------------<br>
 Study projects: https://sites.google.com/view/nikolay-bazylev-study-projects/<br>
 ------------------------------------<br>
 
