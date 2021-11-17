@@ -5,7 +5,7 @@
 
 projects for view:<br>
 ------------------------------------<br>
--Racing (HTML,CSS,JS & Three.js)
+-Racing (HTML,CSS,JS & Three.js):<br>
 <a href="https://bazylevnik0.github.io/undefined/">bazylevnik0.github.io/undefined/</a><br>
 -Clicker (JS & Three.js & Tone.js):<br>
 <a href="https://bazylevnik0.github.io/gotothestars/">bazylevnik0.github.io/gotothestars/</a><br>
