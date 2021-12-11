@@ -16,7 +16,7 @@ projects for view:<br>
 -Site(app) with authentification(Express.js, API):<br>
 <a href="https://site-philosophy.herokuapp.com/">https://site-philosophy.herokuapp.com/</a><br>
 ------------------------------------<br>
-Game intros(Three.js(t)/Babylon.js(b)) :<br>
+Repeated classic game intros(Three.js(t)/Babylon.js(b)) :<br>
 -3DO(<a href="https://bazylevnik0.github.io/practice/game/intros/3do/three/">t</a>/<a href="https://bazylevnik0.github.io/practice/game/intros/3do/babylon/">b</a>)<br>
 -CDTV(<a href="https://bazylevnik0.github.io/practice/game/intros/cdtv/three/">t</a>/<a href="https://bazylevnik0.github.io/practice/game/intros/cdtv/babylon/">b</a>)<br>
 -Nintendo(<a href="https://bazylevnik0.github.io/practice/game/intros/nintendo/three/">t</a>/<a href="https://bazylevnik0.github.io/practice/game/intros/nintendo/babylon/">b</a>)<br>
