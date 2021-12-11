@@ -19,4 +19,5 @@ projects for view:<br>
 Freelance projects: https://www.upwork.com/freelancers/~01f972e7777428d9bd<br>
 Study projects: https://sites.google.com/view/nikolay-bazylev-study-projects/<br>
 ------------------------------------<br>
-
+Three.js(t)/Babylon.js(b) game intros:
+-sega(<a href="https://bazylevnik0.github.io/practice/game/intros/sega/three/">t</a>/<a href="https://bazylevnik0.github.io/practice/game/intros/sega/babylon/">b</a>)
