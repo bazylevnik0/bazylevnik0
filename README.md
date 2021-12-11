@@ -15,6 +15,10 @@ projects for view:<br>
 <a href="https://bazylevnik0.github.io/thishere/">bazylevnik0.github.io/thishere/</a><br>
 -Site(app) with authentification(Express.js, API):<br>
 <a href="https://site-philosophy.herokuapp.com/">https://site-philosophy.herokuapp.com/</a><br>
+Web practice:
+-3D Slider:<a href="https://bazylevnik0.github.io/practice/web/3dslider/">https://bazylevnik0.github.io/practice/web/3dslider/</a><br>
+-3D Menu:<a href="https://bazylevnik0.github.io/practice/web/3dmenu/">https://bazylevnik0.github.io/practice/web/3dmenu/</a><br>
+-2D Animations:<a href="https://bazylevnik0.github.io/practice/web/2danimations/">https://bazylevnik0.github.io/practice/web/2danimations/</a><br>
 ------------------------------------<br>
 Repeated classic game intros(Three.js(t)/Babylon.js(b)) :<br>
 -3DO(<a href="https://bazylevnik0.github.io/practice/game/intros/3do/three/">t</a>/<a href="https://bazylevnik0.github.io/practice/game/intros/3do/babylon/">b</a>)<br>
