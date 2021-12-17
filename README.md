@@ -17,7 +17,7 @@ projects for view:<br>
 -3D Slider:<a href="https://bazylevnik0.github.io/practice/web/3dslider/">https://bazylevnik0.github.io/practice/web/3dslider/</a><br>
 -3D Menu:<a href="https://bazylevnik0.github.io/practice/web/3dmenu/">https://bazylevnik0.github.io/practice/web/3dmenu/</a><br>
 -2D Animations:<a href="https://bazylevnik0.github.io/practice/web/2danimations/">https://bazylevnik0.github.io/practice/web/2danimations/</a><br><br>
-Games:
+Games:<br>
 -Racing (HTML,CSS,JS & Three.js):<br>
 <a href="https://bazylevnik0.github.io/undefined/">bazylevnik0.github.io/undefined/</a><br>
 -Clicker (JS & Three.js & Tone.js):<br>
