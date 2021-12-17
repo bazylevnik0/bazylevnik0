@@ -8,9 +8,9 @@ projects for view:<br>
 Apps:<br>
 -Slideshow web tool (HTML & CSS & JS):<br>
 <a href="https://bazylevnik0.github.io/showmagic/">bazylevnik0.github.io/showmagic/</a><br>
--3D object viewer in AR (HTML & CSS & JS & Babylon.js):<br><br>
+-3D object viewer in AR (HTML & CSS & JS & Babylon.js):<br>
 <a href="https://bazylevnik0.github.io/thishere/">bazylevnik0.github.io/thishere/</a><br>
-Sites:
+Sites:<br>
 -Site with authentification(Express.js, API):<br>
 <a href="https://site-philosophy.herokuapp.com/">https://site-philosophy.herokuapp.com/</a><br>
 Web elements:<br>
