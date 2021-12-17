@@ -8,15 +8,15 @@ projects for view:<br>
 Apps:<br>
 -Slideshow web tool (HTML & CSS & JS):<br>
 <a href="https://bazylevnik0.github.io/showmagic/">bazylevnik0.github.io/showmagic/</a><br>
--3D object viewer in AR (HTML & CSS & JS & Babylon.js):<br>
+-3D object viewer in AR (HTML & CSS & JS & Babylon.js):<br><br>
 <a href="https://bazylevnik0.github.io/thishere/">bazylevnik0.github.io/thishere/</a><br>
 Sites:
 -Site with authentification(Express.js, API):<br>
-<a href="https://site-philosophy.herokuapp.com/">https://site-philosophy.herokuapp.com/</a><br><br>
+<a href="https://site-philosophy.herokuapp.com/">https://site-philosophy.herokuapp.com/</a><br>
 Web elements:<br>
 -3D Slider:<a href="https://bazylevnik0.github.io/practice/web/3dslider/">https://bazylevnik0.github.io/practice/web/3dslider/</a><br>
 -3D Menu:<a href="https://bazylevnik0.github.io/practice/web/3dmenu/">https://bazylevnik0.github.io/practice/web/3dmenu/</a><br>
--2D Animations:<a href="https://bazylevnik0.github.io/practice/web/2danimations/">https://bazylevnik0.github.io/practice/web/2danimations/</a><br>
+-2D Animations:<a href="https://bazylevnik0.github.io/practice/web/2danimations/">https://bazylevnik0.github.io/practice/web/2danimations/</a><br><br>
 Games:
 -Racing (HTML,CSS,JS & Three.js):<br>
 <a href="https://bazylevnik0.github.io/undefined/">bazylevnik0.github.io/undefined/</a><br>
