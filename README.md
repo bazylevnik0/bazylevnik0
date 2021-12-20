@@ -11,9 +11,9 @@ projects for view:<br>
 -3D object viewer in AR (HTML & CSS & JS & Babylon.js):<br>
 <a href="https://bazylevnik0.github.io/thishere/">bazylevnik0.github.io/thishere/</a><br>
 <b>Sites:</b><br>
--Site with subscription(Express.js, API , React, jQuery):<br>
+-Site with subscription(Bootstrap, Express.js, API , React, jQuery):<br>
 <a href="https://site-psychology.herokuapp.com/">https://site-psychology.herokuapp.com/</a><br>
--Site with authentification(Express.js, API):<br>
+-Site with authentification(Bootstrap, Express.js, API):<br>
 <a href="https://site-philosophy.herokuapp.com/">https://site-philosophy.herokuapp.com/</a><br>
 <b>Web elements:</b><br>
 -3D Slider:<a href="https://bazylevnik0.github.io/practice/web/3dslider/">https://bazylevnik0.github.io/practice/web/3dslider/</a><br>
