@@ -12,6 +12,8 @@ projects for view:<br>
 <a href="https://nkxml.csb.app/">https://nkxml.csb.app/</a><br>
 -3D object viewer in AR (HTML & CSS & JS & Babylon.js):<br>
 <a href="https://bazylevnik0.github.io/thishere/">bazylevnik0.github.io/thishere/</a><br>
+-Mix app for sending messages(HTML & CSS & JS , Express.js)<br>
+<a href="https://devpost.com/software/commonecator">https://devpost.com/software/commonecator</a>
 <b>Sites:</b><br>
 -Site with subscription(Bootstrap, Express.js, MongoDB,  API , React, jQuery):<br>
 <a href="https://site-psychology.herokuapp.com/">https://site-psychology.herokuapp.com/</a><br>
