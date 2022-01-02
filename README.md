@@ -23,7 +23,7 @@ projects for view:<br>
 -2D Animations:<a href="https://bazylevnik0.github.io/practice/web/2danimations/">https://bazylevnik0.github.io/practice/web/2danimations/</a><br><br>
 Games:<br>
 -Racing (HTML,CSS,JS & Three.js):<br>
-<a href="https://bazylevnik0.github.io/undefined/">bazylevnik0.github.io/undefined/</a><br>
+<a href="https://bazylevnik0.itch.io/undefined">https://bazylevnik0.itch.io/undefined</a><br>
 -Clicker (JS & Three.js & Tone.js):<br>
 <a href="https://bazylevnik0.github.io/gotothestars/">bazylevnik0.github.io/gotothestars/</a><br>
 ------------------------------------<br>
