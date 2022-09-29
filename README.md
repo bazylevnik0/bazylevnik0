@@ -11,7 +11,7 @@ projects for view:<br>
 -Web synth (HTML & CSS & JS , React, Tone.js):<br>
 <a href="https://nkxml.csb.app/">https://nkxml.csb.app/</a><br>
 -3D object viewer in AR (HTML & CSS & JS & Babylon.js):<br>
-<a href="https://bazylevnik0.github.io/thishere/">bazylevnik0.github.io/thishere/</a><br>
+<a href="https://bazylevnik0.github.io/learning/web/free/thishere/">https://bazylevnik0.github.io/learning/web/free/thishere/</a><br>
 -Mix app for sending messages(HTML & CSS & JS , Express.js)<br>
 <a href="https://devpost.com/software/commonecator">https://devpost.com/software/commonecator</a><br>
 <b>Web elements:</b><br>
