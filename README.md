@@ -27,7 +27,7 @@ projects for view:<br>
 -Racing (HTML,CSS,JS & Three.js):<br>
 <a href="https://bazylevnik0.itch.io/undefined">https://bazylevnik0.itch.io/undefined</a><br>
 -Clicker (JS & Three.js & Tone.js):<br>
-<a href="https://bazylevnik0.github.io/gotothestars/">bazylevnik0.github.io/gotothestars/</a><br>
+<a href="https://bazylevnik0.github.io/learning/web/free/gotothestars/0.2.0/">https://bazylevnik0.github.io/learning/web/free/gotothestars/0.2.0/</a><br>
 ------------------------------------<br>
 Repeated classic game intros(Three.js(t)/Babylon.js(b)) :<br>
 -3DO(<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/3do/three/">t</a>/<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/3do/babylon/">b</a>)<br>
