@@ -17,7 +17,7 @@ projects for view:<br>
 <b>Web elements:</b><br>
 -3D Slider: <a href="https://bazylevnik0.github.io/learning/web/free/elements/3dslider/">https://bazylevnik0.github.io/learning/web/free/elements/3dslider/</a><br>
 -3D Menu: <a href="https://bazylevnik0.github.io/learning/web/free/elements/3dmenu/">https://bazylevnik0.github.io/learning/web/free/elements/3dmenu/</a><br>
--2D Animations: <a href="https://bazylevnik0.github.io/learning/web/free/elements/2danimations/">[https://bazylevnik0.github.io/practice/web/2danimations/](https://bazylevnik0.github.io/learning/web/free/elements/2danimations/)</a><br>
+-2D Animations: <a href="https://bazylevnik0.github.io/learning/web/free/elements/2danimations/">https://bazylevnik0.github.io/learning/web/free/elements/2danimations/</a><br>
 <b>Sites:</b><br>
 -Site with subscription(Bootstrap, Express.js, MongoDB,  API , React, jQuery):<br>
 <a href="https://site-psychology.herokuapp.com/">https://site-psychology.herokuapp.com/</a><br>
