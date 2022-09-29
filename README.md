@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bazylevnik0
-- 👀 I’m interested in web
+- 👀 I’m interested in web/system
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me: bazylevnik0@gmail.com <br>
 
