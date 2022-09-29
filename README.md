@@ -5,7 +5,6 @@
 
 <h1>Web</h1>
 <h2>Free projects:</h2><br>
-------------------------------------<br>
 <b>Apps:</b><br>
 -Slideshow web tool (HTML & CSS & JS):<br>
 <a href="https://bazylevnik0.github.io/learning/web/free/showmagic/">https://bazylevnik0.github.io/learning/web/free/showmagic/</a><br>
@@ -35,5 +34,4 @@ Repeated classic game intros(Three.js(t)/Babylon.js(b)) :<br>
 -CDTV(<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/cdtv/three/">t</a>/<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/cdtv/babylon/">b</a>)<br>
 -Nintendo(<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/nintendo/three/">t</a>/<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/nintendo/babylon/">b</a>)<br>
 -Sega(<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/sega/three/">t</a>/<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/sega/babylon/">b</a>)<br>
-------------------------------------<br>
 <h2>Guided projects:</h2> https://sites.google.com/view/nikolay-bazylev-study-projects/<br>
