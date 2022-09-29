@@ -15,9 +15,9 @@ projects for view:<br>
 -Mix app for sending messages(HTML & CSS & JS , Express.js)<br>
 <a href="https://devpost.com/software/commonecator">https://devpost.com/software/commonecator</a><br>
 <b>Web elements:</b><br>
--3D Slider:<a href="https://bazylevnik0.github.io/practice/web/3dslider/">https://bazylevnik0.github.io/practice/web/3dslider/</a><br>
--3D Menu:<a href="https://bazylevnik0.github.io/practice/web/3dmenu/">https://bazylevnik0.github.io/practice/web/3dmenu/</a><br>
--2D Animations:<a href="https://bazylevnik0.github.io/practice/web/2danimations/">https://bazylevnik0.github.io/practice/web/2danimations/</a><br>
+-3D Slider: <a href="https://bazylevnik0.github.io/learning/web/free/elements/3dslider/">https://bazylevnik0.github.io/learning/web/free/elements/3dslider/</a><br>
+-3D Menu: <a href="https://bazylevnik0.github.io/learning/web/free/elements/3dmenu/">https://bazylevnik0.github.io/learning/web/free/elements/3dmenu/</a><br>
+-2D Animations: <a href="https://bazylevnik0.github.io/learning/web/free/elements/2danimations/">[https://bazylevnik0.github.io/practice/web/2danimations/](https://bazylevnik0.github.io/learning/web/free/elements/2danimations/)</a><br>
 <b>Sites:</b><br>
 -Site with subscription(Bootstrap, Express.js, MongoDB,  API , React, jQuery):<br>
 <a href="https://site-psychology.herokuapp.com/">https://site-psychology.herokuapp.com/</a><br>
