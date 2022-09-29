@@ -30,9 +30,9 @@ projects for view:<br>
 <a href="https://bazylevnik0.github.io/gotothestars/">bazylevnik0.github.io/gotothestars/</a><br>
 ------------------------------------<br>
 Repeated classic game intros(Three.js(t)/Babylon.js(b)) :<br>
--3DO(<a href="https://bazylevnik0.github.io/practice/game/intros/3do/three/">t</a>/<a href="https://bazylevnik0.github.io/practice/game/intros/3do/babylon/">b</a>)<br>
--CDTV(<a href="https://bazylevnik0.github.io/practice/game/intros/cdtv/three/">t</a>/<a href="https://bazylevnik0.github.io/practice/game/intros/cdtv/babylon/">b</a>)<br>
--Nintendo(<a href="https://bazylevnik0.github.io/practice/game/intros/nintendo/three/">t</a>/<a href="https://bazylevnik0.github.io/practice/game/intros/nintendo/babylon/">b</a>)<br>
--Sega(<a href="https://bazylevnik0.github.io/practice/game/intros/sega/three/">t</a>/<a href="https://bazylevnik0.github.io/practice/game/intros/sega/babylon/">b</a>)<br>
+-3DO(<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/3do/three/">t</a>/<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/3do/babylon/">b</a>)<br>
+-CDTV(<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/cdtv/three/">t</a>/<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/cdtv/babylon/">b</a>)<br>
+-Nintendo(<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/nintendo/three/">t</a>/<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/nintendo/babylon/">b</a>)<br>
+-Sega(<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/sega/three/">t</a>/<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/sega/babylon/">b</a>)<br>
 ------------------------------------<br>
 Study projects: https://sites.google.com/view/nikolay-bazylev-study-projects/<br>
