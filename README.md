@@ -1,3 +1,5 @@
+Twitter/Instagram: @bazylevnik0
+
 - 👋 Hi, I’m @bazylevnik0
 - 👀 I’m interested in web/system
 - 💞️ I’m looking to collaborate
