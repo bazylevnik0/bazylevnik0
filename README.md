@@ -1,7 +1,7 @@
 <b>Twitter/Instagram</b>: @bazylevnik0
 
 - 👋 Hi, I’m @bazylevnik0
-- 👀 I’m interested in web/system
+- 👀 I’m interested in web/system/art
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me: bazylevnik0@gmail.com <br>
 
@@ -41,3 +41,6 @@ Repeated classic game intros(Three.js(t)/Babylon.js(b)) :<br>
 <h2>Free system projects</h2><br>
 -3D rail shooter <a href="https://bazylevnik0.itch.io/cellardoor">https://bazylevnik0.itch.io/cellardoor</a><br>
 <h2>Guided system projects</h2> https://sites.google.com/view/system-guided-projects/home
+<hr>
+<h2>Art</h2>
+<a href="http://bazylevnik0.website/">http://bazylevnik0.website/</a>
