@@ -1,7 +1,7 @@
 <b>Twitter/Instagram</b>: @bazylevnik0
 
 - 👋 Hi, I’m @bazylevnik0
-- 👀 I’m interested in web/system/blockhain
+- 👀 I’m interested in web/system
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me: bazylevnik0@gmail.com <br>
 
