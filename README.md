@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bazylevnik0
 - 👀 I’m interested in web/system/art
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me: bazylevnik0@gmail.com <br>
+- 📫 How to reach me: bazylevnik0@yahoo.com <br>
 
 <h1>Web</h1>
 <h2>Free web projects</h2><br>
@@ -43,8 +43,4 @@ Repeated classic game intros(Three.js(t)/Babylon.js(b)) :<br>
 <h2>Guided system projects</h2> https://sites.google.com/view/system-guided-projects/home
 <hr>
 <h2>Art</h2>
--<b>main</b> <a href="https://bazylevnik0.github.io/art/">https://bazylevnik0.github.io/art/</a><br>
--<a href="https://sketchfab.com/bazylevnik0">https://sketchfab.com/bazylevnik0</a><br>
--<a href="https://www.flickr.com/photos/bazylevnik0">https://www.flickr.com/photos/bazylevnik0</a><br>
--<a href="https://pinterest.com/bazylevnik0/">https://pinterest.com/bazylevnik0/</a>
--<a href="https://dribbble.com/bazylevnik0">https://dribbble.com/bazylevnik0</a>
+-<a href="https://bazylevnik0.github.io/art/">https://bazylevnik0.github.io/art/</a><br>
