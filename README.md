@@ -42,5 +42,5 @@ Repeated classic game intros(Three.js(t)/Babylon.js(b)) :<br>
 -3D rail shooter <a href="https://bazylevnik0.itch.io/cellardoor">https://bazylevnik0.itch.io/cellardoor</a><br>
 <h2>Guided system projects</h2> https://sites.google.com/view/system-guided-projects/home
 <hr>
-<h2>Art</h2>
+<h2>Art Art Art Art Art Art Art Art</h2>
 <a href="https://bazylevnik0.github.io/art/">https://bazylevnik0.github.io/art/</a><br>
