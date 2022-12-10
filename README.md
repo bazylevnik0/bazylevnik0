@@ -43,4 +43,4 @@ Repeated classic game intros(Three.js(t)/Babylon.js(b)) :<br>
 <h2>Guided system projects</h2> https://sites.google.com/view/system-guided-projects/home
 <hr>
 <h2>Art</h2>
--<a href="https://bazylevnik0.github.io/art/">https://bazylevnik0.github.io/art/</a><br>
+<a href="https://bazylevnik0.github.io/art/">https://bazylevnik0.github.io/art/</a><br>
