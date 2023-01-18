@@ -27,8 +27,8 @@
 -Site with subscription(Bootstrap, Express.js, MongoDB,  API , React, jQuery):<br>
 <a href="https://site-psychology.herokuapp.com/">https://site-psychology.herokuapp.com/</a><br>
 -Site with authentification(Bootstrap, Express.js, API):<br>
-<a href="https://site-philosophy.herokuapp.com/">https://site-philosophy.herokuapp.com/</a><br><br>
-*/<br>
+<a href="https://site-philosophy.herokuapp.com/">https://site-philosophy.herokuapp.com/</a><br>
+*/<br><br>
 <b>Games:</b><br>
 -Racing (HTML,CSS,JS & Three.js):<br>
 <a href="https://bazylevnik0.itch.io/undefined">https://bazylevnik0.itch.io/undefined</a><br>
