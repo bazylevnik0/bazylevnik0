@@ -3,8 +3,7 @@
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me: bazylevnik0@yahoo.com <br>
 *soviet basic books torrent: <a href="https://bazylevnik0.github.io/sovietbasicbooks.torrent">https://bazylevnik0.github.io/sovietbasicbooks.torrent</a>
-<br>
-** personal blog: <a href="https://bazylevnik0.blogspot.com/">https://bazylevnik0.blogspot.com/</a>
+** personal blog: <a href="https://bazylevnik0.blogspot.com/">https://bazylevnik0.blogspot.com/</a><br>
 
 <h1>Web</h1>
 <h2>Free web projects</h2><br>
