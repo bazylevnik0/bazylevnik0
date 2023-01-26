@@ -8,10 +8,10 @@
 <h1>System</h1>
 <h2>Free system projects</h2><br>
 -Dynamic Matrix <a href="https://github.com/bazylevnik0/learning/tree/main/system/free/dynamicmatrix">https://github.com/bazylevnik0/learning/tree/main/system/free/dynamicmatrix</a><br>
-You can store colorfull geometic shapes to display and move them with arrow-keys.<br>
-This app have two sides: frontend and backend:<br>
- -frontend is X drawing with XCB lib<br>
- -backend is dynamic matrix<br>
+ <i>You can store colorfull geometic shapes to display and move them with arrow-keys.<br>
+ This app have two sides: frontend and backend:<br>
+  -frontend is X drawing with XCB lib<br>
+  -backend is dynamic matrix</i><br>
 -3D rail shooter <a href="https://bazylevnik0.itch.io/cellardoor">https://bazylevnik0.itch.io/cellardoor</a><br>
 <h2>Guided system projects</h2> https://sites.google.com/view/system-guided-projects/home
 <hr>
