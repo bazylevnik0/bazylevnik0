@@ -53,5 +53,5 @@ Repeated classic game intros(Three.js(t)/Babylon.js(b)) :<br>
 -Nintendo(<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/nintendo/three/">t</a>/<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/nintendo/babylon/">b</a>)<br>
 -Sega(<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/sega/three/">t</a>/<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/sega/babylon/">b</a>)<br>
 <h2>Guided web projects</h2> https://sites.google.com/view/web-guided-projects/home<br><hr>
-<h2>Art</h2>
+<h1>Art</h1>
 <a href="https://bazylevnik0.github.io/art/">https://bazylevnik0.github.io/art/</a><br>
