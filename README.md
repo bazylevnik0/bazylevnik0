@@ -7,7 +7,7 @@
 
 <h1>System</h1>
 <h2>Free system projects</h2><br>
-<b>Isometric Rotation<b> <i>(GTK)</i> <a href="https://github.com/bazylevnik0/learning/tree/main/system/free/isometricrotation"https://github.com/bazylevnik0/learning/tree/main/system/free/isometricrotation</a><br>
+<b>Isometric Rotation<b> <i>(GTK)</i> <a href="https://github.com/bazylevnik0/learning/tree/main/system/free/isometricrotation">https://github.com/bazylevnik0/learning/tree/main/system/free/isometricrotation</a><br>
 <i>GTK app for visualization 3D-effect(isometric) with 2D drawing area widget. <br>
  You can rotate parallelepiped or icosahedron through vertical and horizontal axises.</i><br>                                         
 <b>Dynamic Matrix</b> <i>(X,XCB)</i> <a href="https://github.com/bazylevnik0/learning/tree/main/system/free/dynamicmatrix">https://github.com/bazylevnik0/learning/tree/main/system/free/dynamicmatrix</a><br>
