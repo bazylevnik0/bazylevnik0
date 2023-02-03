@@ -9,12 +9,12 @@
 <h2>Free system projects</h2><br>
 <b>Isometric Rotation</b> <i>(GTK)</i> <a href="https://github.com/bazylevnik0/learning/tree/main/system/free/isometricrotation">https://github.com/bazylevnik0/learning/tree/main/system/free/isometricrotation</a><br>
 <i>GTK app for visualization 3D-effect(isometric) with 2D drawing area widget. <br>
- You can rotate parallelepiped or icosahedron through vertical and horizontal axises.</i><br>                                         
+ You can rotate parallelepiped or icosahedron through vertical and horizontal axises.</i><br><br>                                         
 <b>Dynamic Matrix</b> <i>(X,XCB)</i> <a href="https://github.com/bazylevnik0/learning/tree/main/system/free/dynamicmatrix">https://github.com/bazylevnik0/learning/tree/main/system/free/dynamicmatrix</a><br>
  <i>You can store colorfull geometic shapes to display and move them with arrow-keys.<br>
  This app have two sides: frontend and backend:<br>
   -frontend is X drawing with XCB lib<br>
-  -backend is dynamic matrix</i><br>
+  -backend is dynamic matrix</i><br><br>
 <b>3D rail shooter</b> <i>(OpenGL,Raylib)</i> <a href="https://bazylevnik0.itch.io/cellardoor">https://bazylevnik0.itch.io/cellardoor</a><br>
 <h2>Guided system projects</h2> https://sites.google.com/view/system-guided-projects/home
 <hr>
