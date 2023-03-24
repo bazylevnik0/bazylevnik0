@@ -46,9 +46,7 @@
 <b>Apps:</b><br>
 <a href="https://devpost.com/bazylevnik0">https://devpost.com/bazylevnik0</a><br>
 <b>Web elements:</b><br>
--3D Slider: <a href="https://bazylevnik0.github.io/learning/web/free/elements/3dslider/">https://bazylevnik0.github.io/learning/web/free/elements/3dslider/</a><br>
--3D Menu: <a href="https://bazylevnik0.github.io/learning/web/free/elements/3dmenu/">https://bazylevnik0.github.io/learning/web/free/elements/3dmenu/</a><br>
--2D Animations: <a href="https://bazylevnik0.github.io/learning/web/free/elements/2danimations/">https://bazylevnik0.github.io/learning/web/free/elements/2danimations/</a><br>
+<a href="https://codepen.io/collection/bNkVVk">https://codepen.io/collection/bNkVVk</a>
 <b>Games:</b><br>
 <a href="https://bazylevnik0.itch.io">https://bazylevnik0.itch.io</a><br>
 ------------------------------------<br>
