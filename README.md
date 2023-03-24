@@ -5,7 +5,7 @@
  <tr>
   <h1>👋 Hi, I’m @bazylevnik0</h1>
   <td>
-- 👀 I’m interested in <b>coding/art</b><br>
+- 👀 I’m interested in <b>coding / art</b><br>
 - 💞️ I’m looking to collaborate<br>
 - 💤 I'm usually very busy, but...<br>
 - 📫 How to reach me: <a href="bazylevnik0@yahoo.com">bazylevnik0@yahoo.com</a>
@@ -17,10 +17,13 @@
 *essays about tech: <a href="https://docs.google.com/document/d/1Y--STgCY3BUBBXWqigA8195b8luMEXXqe2u4CsyWGkA/">https://docs.google.com/document/d/1Y--STgCY3BUBBXWqigA8195b8luMEXXqe2u4CsyWGkA/</a><br>
   </td>
  </tr>
-  
 </table>
-
-<h1>System</h1>
+<tr>
+<td>
+<h2>✍️ Coding:</h2>
+<table>
+<td>
+<h3>System</h3>
 <h2>Free system projects</h2><br>
 <b>Isometric Rotation</b> <i>(GTK)</i> <a href="https://github.com/bazylevnik0/learning/tree/main/system/free/isometricrotation">https://github.com/bazylevnik0/learning/tree/main/system/free/isometricrotation</a><br>
 <i>GTK app for visualization 3D-effect(isometric) with 2D drawing area widget. <br>
@@ -30,10 +33,11 @@
  This app have two sides: frontend and backend:<br>
   -frontend is X drawing with XCB lib<br>
   -backend is dynamic matrix</i><br><br>
-<b>3D rail shooter</b> <i>(OpenGL,Raylib)</i> <a href="https://bazylevnik0.itch.io/cellardoor">https://bazylevnik0.itch.io/cellardoor</a><br>
-<h2>Guided system projects</h2> https://sites.google.com/view/system-guided-projects/home
 <hr>
-<h1>Web</h1>
+<h2>Guided system projects</h2> https://sites.google.com/view/system-guided-projects/home
+ </td>
+ <td>
+ <h1>Web</h1>
 <h2>Free web projects</h2><br>
 <b>Apps:</b><br>
 <a href="https://devpost.com/bazylevnik0">https://devpost.com/bazylevnik0</a><br>
@@ -57,6 +61,9 @@ Repeated classic game intros(Three.js(t)/Babylon.js(b)) :<br>
 -Nintendo(<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/nintendo/three/">t</a>/<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/nintendo/babylon/">b</a>)<br>
 -Sega(<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/sega/three/">t</a>/<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/sega/babylon/">b</a>)<br>
 <h2>Guided web projects</h2> https://sites.google.com/view/web-guided-projects/home<br><hr>
+ </td>
+</tr>
+</table>
 <h1>Art</h1>
 <a href="https://bazylevnik0.github.io/art/">https://bazylevnik0.github.io/art/</a><br>
 <a href="https://www.flickr.com/photos/bazylevnik0">https://www.flickr.com/photos/bazylevnik0</a><br>
