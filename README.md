@@ -5,10 +5,10 @@
  <tr>
   <h1>👋 Hi, I’m @bazylevnik0</h1>
   <td>
-- 👀 I’m interested in <b>coding / art</b><br>
-- 💞️ I’m looking to collaborate<br>
-- 💤 I'm usually very busy, but...<br>
-- 📫 How to reach me: <a href="bazylevnik0@yahoo.com">bazylevnik0@yahoo.com</a>
+👀 I’m interested in <b>coding / art</b><br>
+💞️ I’m looking to collaborate<br>
+💤 I'm usually very busy, but...<br>
+📫 How to reach me: <a href="bazylevnik0@yahoo.com">bazylevnik0@yahoo.com</a>
   </td>
   <td>
 *soviet basic books torrent: <a href="https://bazylevnik0.github.io/sovietbooks.torrent">https://bazylevnik0.github.io/sovietbasicbooks.torrent</a><br>
@@ -58,13 +58,16 @@ Repeated classic game intros(Three.js(t)/Babylon.js(b)) :<br>
 </tr>
 </table>
 <h2>🎨 Art:</h2>
-<table
+<table>
 <tr>
 <td>
-<a href="https://bazylevnik0.github.io/art/">https://bazylevnik0.github.io/art/</a><br>
-<a href="https://www.flickr.com/photos/bazylevnik0">https://www.flickr.com/photos/bazylevnik0</a><br>
-<a href="https://sketchfab.com/bazylevnik0">https://sketchfab.com/bazylevnik0</a><br>
-<a href="https://dribbble.com/bazylevnik0">https://dribbble.com/bazylevnik0</a><br>
+<ul>
+ <li><a href="https://bazylevnik0.github.io/art/">https://bazylevnik0.github.io/art/</a></li>
+<li><a href="https://www.flickr.com/photos/bazylevnik0">https://www.flickr.com/photos/bazylevnik0</a></li>
+<li><a href="https://sketchfab.com/bazylevnik0">https://sketchfab.com/bazylevnik0</a></li>
+<li><a href="https://dribbble.com/bazylevnik0">https://dribbble.com/bazylevnik0</a></li>
+</ul>
 </td>
 </tr>
-</table>
+</table style="color:white;background-color:black;">
+buy real pictures, with delivery - <s><a href="underconstruction">underconstruction</a></s>
