@@ -24,7 +24,7 @@
 <table>
 <td>
 <h3>System</h3>
-<h2>Free system projects</h2><br>
+<h4>Free system projects</h4><br>
 <b>Isometric Rotation</b> <i>(GTK)</i> <a href="https://github.com/bazylevnik0/learning/tree/main/system/free/isometricrotation">https://github.com/bazylevnik0/learning/tree/main/system/free/isometricrotation</a><br>
 <i>GTK app for visualization 3D-effect(isometric) with 2D drawing area widget. <br>
  You can rotate parallelepiped or icosahedron through vertical and horizontal axises.</i><br><br>                                         
@@ -34,11 +34,11 @@
   -frontend is X drawing with XCB lib<br>
   -backend is dynamic matrix</i><br><br>
 <hr>
-<h2>Guided system projects</h2> https://sites.google.com/view/system-guided-projects/home
+<h5>Guided system projects</h5> https://sites.google.com/view/system-guided-projects/home
  </td>
  <td>
- <h1>Web</h1>
-<h2>Free web projects</h2><br>
+ <h3>Web</h3>
+<h4>Free web projects</h4><br>
 <b>Apps:</b><br>
 <a href="https://devpost.com/bazylevnik0">https://devpost.com/bazylevnik0</a><br>
 <b>Web elements:</b><br>
@@ -53,7 +53,7 @@ Repeated classic game intros(Three.js(t)/Babylon.js(b)) :<br>
 -CDTV(<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/cdtv/three/">t</a>/<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/cdtv/babylon/">b</a>)<br>
 -Nintendo(<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/nintendo/three/">t</a>/<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/nintendo/babylon/">b</a>)<br>
 -Sega(<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/sega/three/">t</a>/<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/sega/babylon/">b</a>)<br>
-<h2>Guided web projects</h2> https://sites.google.com/view/web-guided-projects/home<br><hr>
+<h5>Guided web projects</h5> https://sites.google.com/view/web-guided-projects/home<br><hr>
  </td>
 </tr>
 </table>
