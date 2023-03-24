@@ -58,7 +58,13 @@ Repeated classic game intros(Three.js(t)/Babylon.js(b)) :<br>
 </tr>
 </table>
 <h2>🎨 Art:</h2>
+<table
+<tr>
+<td>
 <a href="https://bazylevnik0.github.io/art/">https://bazylevnik0.github.io/art/</a><br>
 <a href="https://www.flickr.com/photos/bazylevnik0">https://www.flickr.com/photos/bazylevnik0</a><br>
 <a href="https://sketchfab.com/bazylevnik0">https://sketchfab.com/bazylevnik0</a><br>
 <a href="https://dribbble.com/bazylevnik0">https://dribbble.com/bazylevnik0</a><br>
+</td>
+</tr>
+</table>
