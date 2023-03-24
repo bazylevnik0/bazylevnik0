@@ -1,13 +1,24 @@
-- 👋 Hi, I’m @bazylevnik0
-- 👀 I’m interested in coding/art
-- 💞️ I’m looking to collaborate
-- 💤 I'm usually very busy, but...
-- 📫 How to reach me: bazylevnik0@yahoo.com <br>
+<table>
+<tr>
+<a href="buymeacoffee.com/bazylevnik0">buymeacoffee.com/bazylevnik0</a> - support and tracking my main activity
+ </tr>
+ <tr>
+  <h1>👋 Hi, I’m @bazylevnik0</h1>
+  <td>
+- 👀 I’m interested in <b>coding/art</b><br>
+- 💞️ I’m looking to collaborate<br>
+- 💤 I'm usually very busy, but...<br>
+- 📫 How to reach me: <a href="bazylevnik0@yahoo.com">bazylevnik0@yahoo.com</a>
+  </td>
+  <td>
 *soviet basic books torrent: <a href="https://bazylevnik0.github.io/sovietbooks.torrent">https://bazylevnik0.github.io/sovietbasicbooks.torrent</a><br>
-** personal blog: <a href="https://bazylevnik0.blogspot.com/">https://bazylevnik0.blogspot.com/</a><br>
-*** photoalbum: <a href="https://photos.app.goo.gl/WedbB4GdUPUDjcUX8">https://photos.app.goo.gl/WedbB4GdUPUDjcUX8</a><br>
-**** essays about tech: <a href="https://docs.google.com/document/d/1Y--STgCY3BUBBXWqigA8195b8luMEXXqe2u4CsyWGkA/">https://docs.google.com/document/d/1Y--STgCY3BUBBXWqigA8195b8luMEXXqe2u4CsyWGkA/</a><br>
-*****☕ <a href="buymeacoffee.com/bazylevnik0">buymeacoffee.com/bazylevnik0</a>
+*personal blog: <a href="https://bazylevnik0.blogspot.com/">https://bazylevnik0.blogspot.com/</a><br>
+*photoalbum: <a href="https://photos.app.goo.gl/WedbB4GdUPUDjcUX8">https://photos.app.goo.gl/WedbB4GdUPUDjcUX8</a><br>
+*essays about tech: <a href="https://docs.google.com/document/d/1Y--STgCY3BUBBXWqigA8195b8luMEXXqe2u4CsyWGkA/">https://docs.google.com/document/d/1Y--STgCY3BUBBXWqigA8195b8luMEXXqe2u4CsyWGkA/</a><br>
+  </td>
+ </tr>
+  
+</table>
 
 <h1>System</h1>
 <h2>Free system projects</h2><br>
