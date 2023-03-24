@@ -49,7 +49,6 @@
 <a href="https://codepen.io/collection/bNkVVk">https://codepen.io/collection/bNkVVk</a><br>
 <b>Games:</b><br>
 <a href="https://bazylevnik0.itch.io">https://bazylevnik0.itch.io</a><br>
-------------------------------------<br>
 <b>Repeated classic game intros:</b><br>
 <a href="https://bazylevnik0.github.io/learning/web/free/gameintros/">https://bazylevnik0.github.io/learning/web/free/gameintros/</a>
 <hr>
