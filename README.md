@@ -1,6 +1,10 @@
 <table>
 <tr>
+<ul>
+<li>
 <a href="buymeacoffee.com/bazylevnik0">buymeacoffee.com/bazylevnik0</a> - support and tracking my main activity
+ </li>
+ </ul>
  </tr>
  <tr>
   <h1>👋 Hi, I’m @bazylevnik0</h1>
@@ -58,16 +62,10 @@ Repeated classic game intros(Three.js(t)/Babylon.js(b)) :<br>
 </tr>
 </table>
 <h2>🎨 Art:</h2>
-<table>
-<tr>
-<td>
 <ul>
- <li><a href="https://bazylevnik0.github.io/art/">https://bazylevnik0.github.io/art/</a></li>
+<li><a href="https://bazylevnik0.github.io/art/">https://bazylevnik0.github.io/art/</a></li>
 <li><a href="https://www.flickr.com/photos/bazylevnik0">https://www.flickr.com/photos/bazylevnik0</a></li>
 <li><a href="https://sketchfab.com/bazylevnik0">https://sketchfab.com/bazylevnik0</a></li>
 <li><a href="https://dribbble.com/bazylevnik0">https://dribbble.com/bazylevnik0</a></li>
 </ul>
-</td>
-</tr>
-</table style="color:white;background-color:black;">
-buy real pictures, with delivery - <s><a href="underconstruction">underconstruction</a></s>
+buy real pictures, with delivery - <s><a href="underconstruction">underconstruction</a></s> •
