@@ -46,7 +46,7 @@
 <b>Apps:</b><br>
 <a href="https://devpost.com/bazylevnik0">https://devpost.com/bazylevnik0</a><br>
 <b>Web elements:</b><br>
-<a href="https://codepen.io/collection/bNkVVk">https://codepen.io/collection/bNkVVk</a>
+<a href="https://codepen.io/collection/bNkVVk">https://codepen.io/collection/bNkVVk</a><br>
 <b>Games:</b><br>
 <a href="https://bazylevnik0.itch.io">https://bazylevnik0.itch.io</a><br>
 ------------------------------------<br>
