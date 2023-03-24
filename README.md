@@ -45,13 +45,6 @@
 -3D Slider: <a href="https://bazylevnik0.github.io/learning/web/free/elements/3dslider/">https://bazylevnik0.github.io/learning/web/free/elements/3dslider/</a><br>
 -3D Menu: <a href="https://bazylevnik0.github.io/learning/web/free/elements/3dmenu/">https://bazylevnik0.github.io/learning/web/free/elements/3dmenu/</a><br>
 -2D Animations: <a href="https://bazylevnik0.github.io/learning/web/free/elements/2danimations/">https://bazylevnik0.github.io/learning/web/free/elements/2danimations/</a><br>
-<i>/* dead source:<br>
-<b>Sites:</b><br>
--Site with subscription(Bootstrap, Express.js, MongoDB,  API , React, jQuery):<br>
-<a href="https://github.com/bazylevnik0/site-psychology/">https://github.com/bazylevnik0/site-psychology/</a><br>
--Site with authentification(Bootstrap, Express.js, API):<br>
-<a href="https://github.com/bazylevnik0/site-philosophy/">https://github.com/bazylevnik0/site-philosophy/</a><br>
-*/</i><br><br>
 <b>Games:</b><br>
 <a href="https://bazylevnik0.itch.io">https://bazylevnik0.itch.io</a><br>
 ------------------------------------<br>
@@ -64,7 +57,7 @@ Repeated classic game intros(Three.js(t)/Babylon.js(b)) :<br>
  </td>
 </tr>
 </table>
-<h1>Art</h1>
+<h2>🎨 Art:</h2>
 <a href="https://bazylevnik0.github.io/art/">https://bazylevnik0.github.io/art/</a><br>
 <a href="https://www.flickr.com/photos/bazylevnik0">https://www.flickr.com/photos/bazylevnik0</a><br>
 <a href="https://sketchfab.com/bazylevnik0">https://sketchfab.com/bazylevnik0</a><br>
