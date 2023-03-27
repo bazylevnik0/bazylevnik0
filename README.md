@@ -29,7 +29,7 @@
 <td>
 <h3>System</h3>
 <h4>Free system projects</h4><br>
-<b>Icon-generator</b> <i>(GTK,GNOME)</i> <a href="https://github.com/bazylevnik0/icon-generator-prototype">https://github.com/bazylevnik0/icon-generator-prototype</a><br>
+<b>Icon-generator</b> <i>(GNOME)</i> <a href="https://github.com/bazylevnik0/icon-generator-prototype">https://github.com/bazylevnik0/icon-generator-prototype</a><br>
 <i>GNOMe app for generating icons from symbols <br>
 Works with SVG like a with text, possible to combine and edit SVG elements</i><br><br>                                         
 <b>Isometric Rotation</b> <i>(GTK)</i> <a href="https://github.com/bazylevnik0/learning/tree/main/system/free/isometricrotation">https://github.com/bazylevnik0/learning/tree/main/system/free/isometricrotation</a><br>
