@@ -66,4 +66,7 @@ Works with SVG like a with text, possible to combine and edit SVG elements</i><b
 <li><a href="https://sketchfab.com/bazylevnik0">https://sketchfab.com/bazylevnik0</a></li>
 <li><a href="https://dribbble.com/bazylevnik0">https://dribbble.com/bazylevnik0</a></li>
 </ul>
-buy abstract art on canvas, with delivery - <a href="https://www.ozon.ru/product/holst-1-909170803/">https://www.ozon.ru/product/holst-1-909170803/</a> •
+buy abstract art on canvas, with delivery:<br>
+<a href="https://aliexpress.ru/item/1005005420177346.html">https://aliexpress.ru/item/1005005420177346.html</a><br>
+<a href="https://aliexpress.ru/item/1005005420149581.html">https://aliexpress.ru/item/1005005420149581.html</a>
+•
