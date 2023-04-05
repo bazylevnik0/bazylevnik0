@@ -2,7 +2,7 @@
 <tr>
 <ul>
 <li>
-<a href="https://www.buymeacoffee.com/bazylevnik0/posts">https://www.buymeacoffee.com/bazylevnik0/posts</a> - support and tracking my main activity
+<a href="https://www.buymeacoffee.com/bazylevnik0/posts">https://www.buymeacoffee.com/bazylevnik0/posts</a> - support and tracking my activity
  </li>
  </ul>
  </tr>
