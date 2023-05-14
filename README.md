@@ -62,7 +62,8 @@ Works with SVG like a with text, possible to combine and edit SVG elements</i><b
 <h2>🎨 Art:</h2>
 <ul>
 <li><a href="https://bazylevnik0.github.io/art/">https://bazylevnik0.github.io/art/</a></li>
-<li><a href="https://www.flickr.com/photos/bazylevnik0">https://www.flickr.com/photos/bazylevnik0</a></li>
+<li><a href="https://www.flickr.com/photos/bazylevnik0">https://www.flickr.com/photos/bazylevnik0</a></li> 
+<li><a href="https://pinterest.com/bazylevnik0/concepts/">https://pinterest.com/bazylevnik0/concepts/</a></li>
 <li><a href="https://sketchfab.com/bazylevnik0">https://sketchfab.com/bazylevnik0</a></li>
 <li><a href="https://dribbble.com/bazylevnik0">https://dribbble.com/bazylevnik0</a></li>
 </ul>
