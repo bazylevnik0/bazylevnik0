@@ -2,7 +2,8 @@
 <tr>
 <ul>
 <li>
-<a href="https://www.buymeacoffee.com/bazylevnik0/posts">https://www.buymeacoffee.com/bazylevnik0/posts</a> - support and tracking my activity
+<a href="https://www.buymeacoffee.com/bazylevnik0/posts">https://www.buymeacoffee.com/bazylevnik0/posts</a> - tracking my media activity
+<a href="https://twitter.com/bazylevnik0">https://twitter.com/bazylevnik0</a> - tracking a writing activit
  </li>
  </ul>
  </tr>
