@@ -3,6 +3,8 @@
 <ul>
 <li>
 <a href="https://www.buymeacoffee.com/bazylevnik0/posts">https://www.buymeacoffee.com/bazylevnik0/posts</a> - tracking my media activity<br>
+ </li>
+<li>
 <a href="https://twitter.com/bazylevnik0">https://twitter.com/bazylevnik0</a> - tracking a writing activity
  </li>
  </ul>
