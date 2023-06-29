@@ -50,7 +50,7 @@ Works with SVG like a with text, possible to combine and edit SVG elements</i><b
 <h4>Free web projects</h4><br>
 <b>Apps:</b><br>
 <a href="https://devpost.com/bazylevnik0">https://devpost.com/bazylevnik0</a><br>
-<b>UI pens(codepen challenges)</b>
+<b>UI pens(codepen challenges):</b><br>
 <a href="https://codepen.io/collection/mrKNNq">https://codepen.io/collection/mrKNNq</a><br>
 <b>Web elements:</b><br>
 <a href="https://codepen.io/collection/bNkVVk">https://codepen.io/collection/bNkVVk</a><br>
@@ -58,7 +58,7 @@ Works with SVG like a with text, possible to combine and edit SVG elements</i><b
 <a href="https://bazylevnik0.itch.io">https://bazylevnik0.itch.io</a><br>
 <b>Repeated classic game intros:</b><br>
 <a href="https://bazylevnik0.github.io/learning/web/free/gameintros/">https://bazylevnik0.github.io/learning/web/free/gameintros/</a>
-<b>Library for 3D elements(in progress)</b>
+<b>Library for 3D elements(in progress)</b><br>
 <a href="https://github.com/bazylevnik0/3Delements-source/wiki">https://github.com/bazylevnik0/3Delements-source/wiki</a><br>
 <hr>
 <h5>Guided web projects</h5> https://sites.google.com/view/web-guided-projects/home
