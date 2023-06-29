@@ -50,7 +50,7 @@ Works with SVG like a with text, possible to combine and edit SVG elements</i><b
 <h4>Free web projects</h4><br>
 <b>Apps:</b><br>
 <a href="https://devpost.com/bazylevnik0">https://devpost.com/bazylevnik0</a><br>
-<b>UI pens(codepen challenges):</b><br>
+<b>UI pens:</b><br>
 <a href="https://codepen.io/collection/mrKNNq">https://codepen.io/collection/mrKNNq</a><br>
 <b>Web elements:</b><br>
 <a href="https://codepen.io/collection/bNkVVk">https://codepen.io/collection/bNkVVk</a><br>
