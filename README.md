@@ -57,7 +57,7 @@ Works with SVG like a with text, possible to combine and edit SVG elements</i><b
 <b>Games:</b><br>
 <a href="https://bazylevnik0.itch.io">https://bazylevnik0.itch.io</a><br>
 <b>Repeated classic game intros:</b><br>
-<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/">https://bazylevnik0.github.io/learning/web/free/gameintros/</a>
+<a href="https://bazylevnik0.github.io/learning/web/free/gameintros/">https://bazylevnik0.github.io/learning/web/free/gameintros/</a><br>
 <b>Library for 3D elements(in progress)</b><br>
 <a href="https://github.com/bazylevnik0/3Delements-source/wiki">https://github.com/bazylevnik0/3Delements-source/wiki</a><br>
 <hr>
