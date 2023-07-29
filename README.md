@@ -29,14 +29,14 @@
 <h3>System</h3>
 <h4>Free system projects</h4><br>
 <b>Convolution</b> <i>(GNOME)</i> <a href="https://flathub.org/apps/org.gnome.gitlab.bazylevnik0.Convolution">https://flathub.org/apps/org.gnome.gitlab.bazylevnik0.Convolution</a>
- <img src="https://bazylevnik0.github.io/out/1.png"><br>
+ <br><img src="https://bazylevnik0.github.io/out/1.png">
  <i>Logic game with the generative maze and simple AI.</i><br><br>
-<b>Icon-generator</b> <i>(GNOME)</i> <a href="https://github.com/bazylevnik0/icon-generator-prototype">https://github.com/bazylevnik0/icon-generator-prototype</a><br>
+<b>Icon-generator(proof of concept)</b> <i>(GNOME)</i> <a href="https://github.com/bazylevnik0/icon-generator-prototype">https://github.com/bazylevnik0/icon-generator-prototype</a><br>
 <i>GNOMe app for generating icons from symbols <br>
-Works with SVG like a with text, possible to combine and edit SVG elements</i><br><br>                                         
-<b>Isometric Rotation</b>(proof of concept)<i>(GTK)</i> <a href="https://github.com/bazylevnik0/learning/tree/main/system/free/isometricrotation">https://github.com/bazylevnik0/learning/tree/main/system/free/isometricrotation</a><br>
+Works with SVG like a with text, possible to combine and edit SVG elements. Maybe someone want connect Language Model to it?)</i><br><br>                                         
+<b>Isometric Rotation</b><i>(GTK)</i> <a href="https://github.com/bazylevnik0/learning/tree/main/system/free/isometricrotation">https://github.com/bazylevnik0/learning/tree/main/system/free/isometricrotation</a><br>
 <i>GTK app for visualization 3D-effect(isometric) with 2D drawing area widget. <br>
- You can rotate parallelepiped or icosahedron through vertical and horizontal axises.</i><br><br>                                         
+ You can rotate parallelepiped or icosahedron through vertical and horizontal axises.</i><img src="https://bazylevnik0.github.io/out/2.png"><br><br>                                         
 <b>Dynamic Matrix</b> <i>(X,XCB)</i> <a href="https://github.com/bazylevnik0/learning/tree/main/system/free/dynamicmatrix">https://github.com/bazylevnik0/learning/tree/main/system/free/dynamicmatrix</a><br>
  <i>You can store colorfull geometic shapes to display and move them with arrow-keys.<br>
  This app have two sides: frontend and backend:<br>
@@ -49,17 +49,30 @@ Works with SVG like a with text, possible to combine and edit SVG elements</i><b
  <h3>Web</h3>
 <h4>Free web projects</h4><br>
 <b>Apps:</b><br>
-<a href="https://devpost.com/bazylevnik0">https://devpost.com/bazylevnik0</a><br>
+<a href="https://devpost.com/bazylevnik0">https://devpost.com/bazylevnik0</a>
+<img src="https://bazylevnik0.github.io/out/11.png">
+<br>
 <b>UI pens:</b><br>
-<a href="https://codepen.io/collection/mrKNNq">https://codepen.io/collection/mrKNNq</a><br>
+<a href="https://codepen.io/collection/mrKNNq">https://codepen.io/collection/mrKNNq</a>
+<img src="https://bazylevnik0.github.io/out/3.png">
+<br> 
 <b>Web elements:</b><br>
-<a href="https://codepen.io/collection/bNkVVk">https://codepen.io/collection/bNkVVk</a><br>
+<a href="https://codepen.io/collection/bNkVVk">https://codepen.io/collection/bNkVVk</a>
+<img src="https://bazylevnik0.github.io/out/6.png">
+<img src="https://bazylevnik0.github.io/out/7.png">
+<br>
 <b>Games:</b><br>
 <a href="https://bazylevnik0.itch.io">https://bazylevnik0.itch.io</a><br>
+<img src="https://bazylevnik0.github.io/out/8.png">
+<img src="https://bazylevnik0.github.io/out/9.png">
 <b>Repeated classic game intros:</b><br>
 <a href="https://bazylevnik0.github.io/learning/web/free/gameintros/">https://bazylevnik0.github.io/learning/web/free/gameintros/</a><br>
+<img src="https://bazylevnik0.github.io/out/10.png">
 <b>Library for 3D elements(in progress):</b><br>
-<a href="https://github.com/bazylevnik0/3Delements-source/wiki">https://github.com/bazylevnik0/3Delements-source/wiki</a><br>
+<a href="https://github.com/bazylevnik0/3Delements-source/wiki">https://github.com/bazylevnik0/3Delements-source/wiki</a>
+<img src="https://bazylevnik0.github.io/out/4.png">
+<img src="https://bazylevnik0.github.io/out/5.png">
+<br>
 <hr>
 <h5>Guided web projects</h5> https://sites.google.com/view/web-guided-projects/home
  </td>
@@ -68,10 +81,15 @@ Works with SVG like a with text, possible to combine and edit SVG elements</i><b
 <h2>🎨 Art:</h2>
 <ul>
 <li><a href="https://bazylevnik0.github.io/art/">https://bazylevnik0.github.io/art/</a></li>
-<li><a href="https://www.flickr.com/photos/bazylevnik0">https://www.flickr.com/photos/bazylevnik0</a></li> 
+ <img src="https://bazylevnik0.github.io/out/12.png">
+<li><a href="https://www.flickr.com/photos/bazylevnik0">https://www.flickr.com/photos/bazylevnik0</a></li>
+ <img src="https://bazylevnik0.github.io/out/13.png">
 <li><a href="https://pinterest.com/bazylevnik0/concepts/">https://pinterest.com/bazylevnik0/concepts/</a></li>
+ <img src="https://bazylevnik0.github.io/out/14.png">
 <li><a href="https://sketchfab.com/bazylevnik0">https://sketchfab.com/bazylevnik0</a></li>
+ <img src="https://bazylevnik0.github.io/out/15.png">
 <li><a href="https://dribbble.com/bazylevnik0">https://dribbble.com/bazylevnik0</a></li>
+ <img src="https://bazylevnik0.github.io/out/16.png">
 </ul>
 buy abstract art on canvas, with delivery:<br>
 <a href="https://aliexpress.ru/item/1005005420177346.html">https://aliexpress.ru/item/1005005420177346.html</a><br>
