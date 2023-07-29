@@ -25,7 +25,6 @@
 <td>
 <h2>✍️ Coding:</h2>
 <table>
-<td>
 <h3>System</h3>
 <h4>Free system projects</h4><br>
 <b>Convolution</b> <i>(GNOME)</i> <a href="https://flathub.org/apps/org.gnome.gitlab.bazylevnik0.Convolution">https://flathub.org/apps/org.gnome.gitlab.bazylevnik0.Convolution</a>
@@ -44,8 +43,6 @@ Works with SVG like a with text, possible to combine and edit SVG elements. Mayb
   -backend is dynamic matrix</i><br><br>
 <hr>
 <h5>Guided system projects</h5> https://sites.google.com/view/system-guided-projects/home
- </td>
- <td>
  <h3>Web</h3>
 <h4>Free web projects</h4><br>
 <b>Apps:</b><br>
@@ -75,7 +72,6 @@ Works with SVG like a with text, possible to combine and edit SVG elements. Mayb
 <br>
 <hr>
 <h5>Guided web projects</h5> https://sites.google.com/view/web-guided-projects/home
- </td>
 </tr>
 </table>
 <h2>🎨 Art:</h2>
