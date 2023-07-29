@@ -28,7 +28,8 @@
 <td>
 <h3>System</h3>
 <h4>Free system projects</h4><br>
-<b>Convolution</b> <i>(GNOME)</i> <a href="https://flathub.org/apps/org.gnome.gitlab.bazylevnik0.Convolution">https://flathub.org/apps/org.gnome.gitlab.bazylevnik0.Convolution</a><br>
+<b>Convolution</b> <i>(GNOME)</i> <a href="https://flathub.org/apps/org.gnome.gitlab.bazylevnik0.Convolution">https://flathub.org/apps/org.gnome.gitlab.bazylevnik0.Convolution</a>
+ <img src="https://bazylevnik0.github.io/out/1.png"><br>
  <i>Logic game with the generative maze and simple AI.</i><br><br>
 <b>Icon-generator</b> <i>(GNOME)</i> <a href="https://github.com/bazylevnik0/icon-generator-prototype">https://github.com/bazylevnik0/icon-generator-prototype</a><br>
 <i>GNOMe app for generating icons from symbols <br>
