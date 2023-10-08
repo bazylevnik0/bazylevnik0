@@ -87,7 +87,4 @@ Works with SVG like a with text, possible to combine and edit SVG elements. Mayb
 <li><a href="https://dribbble.com/bazylevnik0">https://dribbble.com/bazylevnik0</a></li>
  <img src="https://bazylevnik0.github.io/out/16.png">
 </ul>
-buy abstract art on canvas, with delivery:<br>
-<a href="https://aliexpress.ru/item/1005005420177346.html">https://aliexpress.ru/item/1005005420177346.html</a><br>
-<a href="https://aliexpress.ru/item/1005005420149581.html">https://aliexpress.ru/item/1005005420149581.html</a><br>
 •
