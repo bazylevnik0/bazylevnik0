@@ -92,5 +92,5 @@ Works with SVG like a with text, possible to combine and edit SVG elements. Mayb
  <a href="https://aliexpress.ru/item/1005005420177346.html">https://aliexpress.ru/item/1005005420177346.html</a><br>
  <a href="https://aliexpress.ru/item/1005005420149581.html">https://aliexpress.ru/item/1005005420149581.html</a><br>
  <h4>NFT(now it is a poster/collage/HD picture) through polygon MATIC</h4>
- <a href="http://polygon.nftically.com/assets/0xda2Ec25B733Fa79AF72277b920639BbB30716164/1343">http://polygon.nftically.com/assets/0xda2Ec25B733Fa79AF72277b920639BbB30716164/1343</a>
+ <a href="http://polygon.nftically.com/assets/0xda2Ec25B733Fa79AF72277b920639BbB30716164/1343">http://polygon.nftically.com/assets/0xda2Ec25B733Fa79AF72277b920639BbB30716164/1343</a><br>
 •
