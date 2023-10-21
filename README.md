@@ -17,6 +17,7 @@
 *personal blog: <a href="https://bazylevnik0.blogspot.com/">https://bazylevnik0.blogspot.com/</a><br>
 *essays about tech: <a href="https://docs.google.com/document/d/1Y--STgCY3BUBBXWqigA8195b8luMEXXqe2u4CsyWGkA/">https://docs.google.com/document/...</a><br>
 *universe for robots <a href="https://www.reddit.com/r/robotsinspace/">https://www.reddit.com/r/robotsinspace/</a><br>
+*my rss feed of publicated <a href="https://bazylevnik0.github.io/out/my.rss">https://bazylevnik0.github.io/out/my.rss</a> 
   </td>
  </tr>
 </table>
