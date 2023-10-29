@@ -21,7 +21,7 @@
   </td>
  </tr>
 </table><br>
-personal photoalbum <a href="https://photos.app.goo.gl/WedbB4GdUPUDjcUX8">https://photos.app.goo.gl/WedbB4GdUPUDjcUX8</a><br>
+📸 personal photoalbum <a href="https://photos.app.goo.gl/WedbB4GdUPUDjcUX8">https://photos.app.goo.gl/WedbB4GdUPUDjcUX8</a><br>
 <tr>
 <td>
 <h2>✍️ Coding:</h2>
