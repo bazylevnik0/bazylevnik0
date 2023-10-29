@@ -20,7 +20,8 @@
 *my rss feed of publicated <a href="https://bazylevnik0.github.io/out/my.rss">https://bazylevnik0.github.io/out/my.rss</a> 
   </td>
  </tr>
-</table>
+</table><br>
+personal photoalbum <a href="https://photos.app.goo.gl/WedbB4GdUPUDjcUX8">https://photos.app.goo.gl/WedbB4GdUPUDjcUX8</a><br>
 <tr>
 <td>
 <h2>✍️ Coding:</h2>
@@ -94,4 +95,3 @@ Works with SVG like a with text, possible to combine and edit SVG elements. Mayb
  <h4>NFT(now it is a poster/collage/HD picture) through nftically(polygon)</h4>
  <a href="http://polygon.nftically.com/assets/0xda2Ec25B733Fa79AF72277b920639BbB30716164/1343">http://polygon.nftically.com/assets/0xda2Ec25B733Fa79AF72277b920639BbB30716164/1343</a><br>
 •<br>
-*personal photoalbum <a href="https://photos.app.goo.gl/WedbB4GdUPUDjcUX8">https://photos.app.goo.gl/WedbB4GdUPUDjcUX8</a><br>
