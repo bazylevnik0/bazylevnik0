@@ -15,7 +15,6 @@
   </td>
   <td>
 *personal blog: <a href="https://bazylevnik0.blogspot.com/">https://bazylevnik0.blogspot.com/</a><br>
-*personal photoalbum <a href="https://photos.app.goo.gl/WedbB4GdUPUDjcUX8">https://photos.app.goo.gl/WedbB4GdUPUDjcUX8</a><br>
 *essays about tech: <a href="https://docs.google.com/document/d/1Y--STgCY3BUBBXWqigA8195b8luMEXXqe2u4CsyWGkA/">https://docs.google.com/document/...</a><br>
 *universe for robots <a href="https://www.reddit.com/r/robotsinspace/">https://www.reddit.com/r/robotsinspace/</a><br>
 *my rss feed of publicated <a href="https://bazylevnik0.github.io/out/my.rss">https://bazylevnik0.github.io/out/my.rss</a> 
@@ -94,4 +93,5 @@ Works with SVG like a with text, possible to combine and edit SVG elements. Mayb
  <a href="https://aliexpress.ru/item/1005005420149581.html">https://aliexpress.ru/item/1005005420149581.html</a><br>
  <h4>NFT(now it is a poster/collage/HD picture) through nftically(polygon)</h4>
  <a href="http://polygon.nftically.com/assets/0xda2Ec25B733Fa79AF72277b920639BbB30716164/1343">http://polygon.nftically.com/assets/0xda2Ec25B733Fa79AF72277b920639BbB30716164/1343</a><br>
-•
+•<br>
+*personal photoalbum <a href="https://photos.app.goo.gl/WedbB4GdUPUDjcUX8">https://photos.app.goo.gl/WedbB4GdUPUDjcUX8</a><br>
